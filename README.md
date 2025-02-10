@@ -19,3 +19,6 @@
 |                       | Cohere’s Large Language Model University (LLMU) | Advanced course on large language models, targeting learners with solid AI and ML knowledge. | [Course Link](https://cohere.com/llmu?ref=txt.cohere.com)                            | 
 |                       | AI Ethics: Global Perspectives (edX)   | Explores global perspectives on AI ethics and responsible AI practices.                      | [Course Link](https://aiethicscourse.org/modules)                | 
 
+
+
+
