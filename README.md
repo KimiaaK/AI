@@ -4,7 +4,7 @@
 
 
 | Group                 | Course                                  | Description                                                                                  | Link                                                                 | 
-|-----------------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+|-----------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Basic**            | AI for Everyone (deeplearning.ai)       | Broad overview of AI concepts for beginners.                                                | [Course Link](https://www.deeplearning.ai/courses/ai-for-everyone/)                 |
 |                       | Generative AI for Everyone (deeplearning.ai) | Introduction to generative AI with no technical background required.                        | [Course Link](https://www.deeplearning.ai/courses/generative-ai-for-everyone/)                |
 |                       | Intro to Generative AI (Google Cloud)  | Introductory course covering fundamental concepts and applications of machine learning.      | [Course Link](https://www.cloudskillsboost.google/paths/118?utm_source=cgc&utm_medium=website&utm_campaign=evergreen)          | 
