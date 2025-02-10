@@ -1,4 +1,8 @@
 # AI
+
+### Here’s a list of beginner-friendly and advanced AI courses to help you explore the basics and beyond—many are free and flexible for your schedule!
+
+
 | Group                 | Course                                  | Description                                                                                  | Link                                                                 | 
 |-----------------------|-----------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
 | **Basic**            | AI for Everyone (deeplearning.ai)       | Broad overview of AI concepts for beginners.                                                | [Course Link](https://www.deeplearning.ai/courses/ai-for-everyone/)                 |
